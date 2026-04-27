@@ -1,4 +1,4 @@
-## Time Series Analysis on Nigeria's GPD rate
+## Time Series Analysis on Nigeria's GDP rate
 
 ## Model Used
 ARIMA (AutoRegressive Integrated Moving Average) model was used for forecasting.
