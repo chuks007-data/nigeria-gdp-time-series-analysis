@@ -1,6 +1,11 @@
-## Model Used
-This project uses the ARIMA (AutoRegressive Integrated Moving Average) model for time series forecasting of Nigeria’s GDP.
+## Time Series Analysis on Nigeria's GPD rate
 
-## Files Included
-- R script for analysis
-- GDP dataset (1990–2023)
+## Model Used
+ARIMA (AutoRegressive Integrated Moving Average) model was used for forecasting.
+
+## Files
+- nigeria_gdp_analysis.R  (R code)
+- gdp_data.csv (dataset)
+
+## Summary
+This project analyzes Nigeria's GDP growth from 1990–2023, identifies trends, and applies ARIMA for forecasting future values.
